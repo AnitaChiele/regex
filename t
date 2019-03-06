@@ -1,0 +1,39 @@
+[33mcommit ad99f056e1c4a7017c26bb93b029c8e129c7df55[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m)[m
+Author: Anita Chiele <anita.lps@gmail.com>
+Date:   Wed Mar 6 17:33:06 2019 -0300
+
+    Regex em Ruby [S02A09]
+
+[33mcommit 770184a2cf915d85b408da9c75eeb9c83a53d1e3[m
+Author: Anita Chiele <anita.lps@gmail.com>
+Date:   Fri Mar 1 19:36:36 2019 -0300
+
+    Métodos de regex no Javascript [S02A08]
+
+[33mcommit ba3e6f10ce3c9ff0044fe7a93b6ced4f8dad0ae8[m
+Author: Anita Chiele <anita.lps@gmail.com>
+Date:   Fri Mar 1 04:38:26 2019 -0300
+
+    Renomeada a pasta.
+    
+    + Correção no nome da pasta com a do capítulo que de fato corresponde.
+
+[33mcommit 3ef742c10adb70b7a6a22e6b7e12803ade9b346f[m
+Author: Anita Chiele <anita.lps@gmail.com>
+Date:   Fri Mar 1 04:31:36 2019 -0300
+
+    Flags [S02A06]
+    
+    Correção do posicionamento do comentário.
+
+[33mcommit 62b284eea00f7f9fa1cb28afadd0a20c9051e564[m
+Author: Anita Chiele <anita.lps@gmail.com>
+Date:   Fri Mar 1 04:24:16 2019 -0300
+
+    Flags [S02A06]
+
+[33mcommit ff352438f40940e7467087a1e157be796e723b1f[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Anita Silveira Chiele <anita.lps@gmail.com>
+Date:   Fri Mar 1 04:01:34 2019 -0300
+
+    Initial commit
