@@ -2,7 +2,7 @@ console.log("/****************************************/")
 console.log("/***      metacaracters/Ponto.js      ***/")
 console.log("/****************************************/\n")
 
-// . - é um coringa, válido para uma posicão.
+// . - é um coringa, válido para uma posicão, porém, não engloba a resolução do \n.
 
 const t = '1,2,3,4,5,6,7,8,9'
 
