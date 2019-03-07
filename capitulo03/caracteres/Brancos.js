@@ -39,7 +39,7 @@ console.log(t.match(/ca\tr\nr\to/))
 console.log("\n\n===========================================")
 console.log("Exemplo 08: ")
 // \s é metacaracter para representar espaço em branco.
-// o \s também pode ser localizado quando for /t/n/f.
+// o \s também pode ser localizado quando for \t\n\f.
 console.log(t.match(/ca\tr\nr\to\s/))
 
 console.log("\nExemplo [08.01]:")
