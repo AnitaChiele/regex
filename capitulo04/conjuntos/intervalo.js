@@ -4,7 +4,7 @@ console.log("/****************************************/\n")
 
 const texto = '1,2,3,4,5,6a.b c!d?e[f'
 
-// os intervalos funcionam dentro de um conjunto.
+// os intervalos (range) funcionam dentro de um conjunto.
 console.log("Exemplo 01: ")
 console.log(texto.match(/[a-z]/g))
 
