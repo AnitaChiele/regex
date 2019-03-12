@@ -4,7 +4,6 @@ console.log("/****************************************/\n")
 
 const t = 'O João recebeu 120 milhões apostando 6 9 21 23 45 46.'
 
-// {} ->
 console.log("\n\n===========================================")
 console.log("Exemplo 01: ")
 // \d --> números
