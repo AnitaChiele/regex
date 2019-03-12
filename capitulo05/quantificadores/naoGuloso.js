@@ -22,6 +22,7 @@ console.log("Exemplo 04: ")
 console.log(t.match(/<div>.{0,}<\/div>/g))
 
 // quantificadores não gulosos(lazy)
+// adicionar o ponto de interrogação após o quantificador.
 console.log("\n\n===========================================")
 console.log("Exemplo 05: ")
 console.log(t.match(/<div>.+?<\/div>/g))
