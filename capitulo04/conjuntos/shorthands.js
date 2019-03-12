@@ -17,6 +17,7 @@ console.log("Exemplo 02: Não númericos [^0-9]")
 console.log(texto.match(/\D/g))
 
 console.log("\n\n===========================================")
+// não considera letras acentuadas.
 console.log("Exemplo 03: [a-zA-Z0-9_] ")
 console.log(texto.match(/\w/g))
 
