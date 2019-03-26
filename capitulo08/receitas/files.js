@@ -1,8 +1,9 @@
 const fs = require('fs')
 
 const read = nomeArquivo => fs.readFileSync(
-  `${__dirname}/originais/${nomeArquivo}`, {encoding: 'utf-8'}
-)
+    `${__dirname}/originais/${nomeArquivo}`, { encoding: 'utf8' }
+  )
+
 
 const write = (nomeArquivo, conteudo) => {
   const dirname = `${__dirname}/alterados`
@@ -11,7 +12,7 @@ const write = (nomeArquivo, conteudo) => {
     fs.mkdirSync(dirname)
   }
 
-  fs.writeSync(`${dirname}/${nomeArquivo}`, conteudo, {encoding: 'utf-8'})
+  fs.writeFileSync(`${dirname}/${nomeArquivo}`, conteudo, {encoding: 'utf-8'})
 }
 
 module.exports = {read, write}
