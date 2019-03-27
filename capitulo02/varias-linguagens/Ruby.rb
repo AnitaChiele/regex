@@ -5,7 +5,6 @@ regexNove = Regexp::new('9')
 puts regexNove.match(texto)
 
 regexNove = %r{9}
-# regexNove = %r{2}
 
 puts regexNove.match(texto)
 
